@@ -6,7 +6,7 @@ import org.springframework.web.service.annotation.HttpExchange;
 
 import java.util.List;
 
-@HttpExchange("//jsonplaceholder.typicode.com")
+@HttpExchange("https://jsonplaceholder.typicode.com")
 public interface JsonPlaceHolder {
 
 
